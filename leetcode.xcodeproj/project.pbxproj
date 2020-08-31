@@ -15,7 +15,7 @@
 		04BDC60224FC878500A85D66 /* Leetcode\count number of teams(1395).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60124FC878500A85D66 /* Leetcode\count number of teams(1395).swift */; };
 		04BDC60424FC87A500A85D66 /* Leetcode\counting bits(338).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60324FC87A500A85D66 /* Leetcode\counting bits(338).swift */; };
 		04BDC60624FC87CB00A85D66 /* Leetcode\find all duplicates in an array(442).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60524FC87CB00A85D66 /* Leetcode\find all duplicates in an array(442).swift */; };
-		04BDC60824FC880C00A85D66 /* find first and last position of elementin sorted array(34).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60724FC880C00A85D66 /* find first and last position of elementin sorted array(34).swift */; };
+		04BDC60824FC880C00A85D66 /* Leetcode\find first and last position of elementin sorted array(34).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60724FC880C00A85D66 /* Leetcode\find first and last position of elementin sorted array(34).swift */; };
 		04BDC60A24FC883B00A85D66 /* Leetcode\find peak element(162).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60924FC883B00A85D66 /* Leetcode\find peak element(162).swift */; };
 		04BDC60C24FC885F00A85D66 /* Leetcode\find the duplicate number(287).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60B24FC885F00A85D66 /* Leetcode\find the duplicate number(287).swift */; };
 		04BDC60E24FC88F300A85D66 /* Leetcode\friend circles(547).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC60D24FC88F300A85D66 /* Leetcode\friend circles(547).swift */; };
@@ -38,6 +38,31 @@
 		04BDC63024FC8C3C00A85D66 /* Leetcode\subrectangle queries(1476).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC62F24FC8C3C00A85D66 /* Leetcode\subrectangle queries(1476).swift */; };
 		04BDC63224FC8C7700A85D66 /* Leetcode\top k frequent elements(347).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63124FC8C7700A85D66 /* Leetcode\top k frequent elements(347).swift */; };
 		04BDC63424FC8C9E00A85D66 /* Leetcode\two city scheduling(1029).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63324FC8C9E00A85D66 /* Leetcode\two city scheduling(1029).swift */; };
+		04BDC63624FC91C200A85D66 /* Leetcode\defanging an ip address(1108).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63524FC91C200A85D66 /* Leetcode\defanging an ip address(1108).swift */; };
+		04BDC63824FC91E000A85D66 /* Leetcode\jewels and stones(771).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63724FC91E000A85D66 /* Leetcode\jewels and stones(771).swift */; };
+		04BDC63A24FC920C00A85D66 /* Leetcode\subtract the product and sum of digits of and integer(1281).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63924FC920C00A85D66 /* Leetcode\subtract the product and sum of digits of and integer(1281).swift */; };
+		04BDC63C24FC923900A85D66 /* Leetcode\split a string in balance strings(1221).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63B24FC923900A85D66 /* Leetcode\split a string in balance strings(1221).swift */; };
+		04BDC63E24FC926000A85D66 /* Leetcode\to lower case(709).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63D24FC926000A85D66 /* Leetcode\to lower case(709).swift */; };
+		04BDC64024FC928000A85D66 /* Leetcode\remove outermost parentheses(1021).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC63F24FC928000A85D66 /* Leetcode\remove outermost parentheses(1021).swift */; };
+		04BDC64224FC92A800A85D66 /* Leetcode\flipping an image(832).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64124FC92A800A85D66 /* Leetcode\flipping an image(832).swift */; };
+		04BDC64424FC92DD00A85D66 /* Leetcode\sort array by parity(905).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64324FC92DD00A85D66 /* Leetcode\sort array by parity(905).swift */; };
+		04BDC64624FC930500A85D66 /* Leetcode\self dividing numbers(728).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64524FC930500A85D66 /* Leetcode\self dividing numbers(728).swift */; };
+		04BDC64824FC933300A85D66 /* Leetcode\n-repeated elements in size 2n array(961).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64724FC933300A85D66 /* Leetcode\n-repeated elements in size 2n array(961).swift */; };
+		04BDC64A24FC935000A85D66 /* Leetcode\robot return to origin(657).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64924FC935000A85D66 /* Leetcode\robot return to origin(657).swift */; };
+		04BDC64C24FC938600A85D66 /* Leetcode\hamming distance(461).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64B24FC938600A85D66 /* Leetcode\hamming distance(461).swift */; };
+		04BDC64E24FC93AD00A85D66 /* Leetcode\DI string match(942).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64D24FC93AD00A85D66 /* Leetcode\DI string match(942).swift */; };
+		04BDC65024FC93DB00A85D66 /* Leetcode\squares of a sorted array(977).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC64F24FC93DB00A85D66 /* Leetcode\squares of a sorted array(977).swift */; };
+		04BDC65224FC940800A85D66 /* Leetcode\array partition 1(561).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65124FC940800A85D66 /* Leetcode\array partition 1(561).swift */; };
+		04BDC65424FC943800A85D66 /* Leetcode\peak index in a mountain array(852).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65324FC943800A85D66 /* Leetcode\peak index in a mountain array(852).swift */; };
+		04BDC65624FC946100A85D66 /* Leetcode\single number(136).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65524FC946100A85D66 /* Leetcode\single number(136).swift */; };
+		04BDC65824FC948600A85D66 /* Leetcode\majority element(169).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65724FC948600A85D66 /* Leetcode\majority element(169).swift */; };
+		04BDC65A24FC94A700A85D66 /* Leetcode\move zeros(283).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65924FC94A700A85D66 /* Leetcode\move zeros(283).swift */; };
+		04BDC65C24FC94D000A85D66 /* Leetcode\reverse string 2(541).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65B24FC94D000A85D66 /* Leetcode\reverse string 2(541).swift */; };
+		04BDC65E24FC94EE00A85D66 /* Leetcode\climbing stairs(70).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65D24FC94EE00A85D66 /* Leetcode\climbing stairs(70).swift */; };
+		04BDC66024FC950900A85D66 /* Leetcode\maximum subarray(53).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC65F24FC950900A85D66 /* Leetcode\maximum subarray(53).swift */; };
+		04BDC66224FC952600A85D66 /* Leetcode\two sum(1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC66124FC952600A85D66 /* Leetcode\two sum(1).swift */; };
+		04BDC66424FC954A00A85D66 /* Leetcode\valid parentheses(20).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC66324FC954A00A85D66 /* Leetcode\valid parentheses(20).swift */; };
+		04BDC66624FC957400A85D66 /* Leetcode\sum of square numbers(633).swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BDC66524FC957400A85D66 /* Leetcode\sum of square numbers(633).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -62,7 +87,7 @@
 		04BDC60124FC878500A85D66 /* Leetcode\count number of teams(1395).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\count number of teams(1395).swift"; sourceTree = "<group>"; };
 		04BDC60324FC87A500A85D66 /* Leetcode\counting bits(338).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\counting bits(338).swift"; sourceTree = "<group>"; };
 		04BDC60524FC87CB00A85D66 /* Leetcode\find all duplicates in an array(442).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\find all duplicates in an array(442).swift"; sourceTree = "<group>"; };
-		04BDC60724FC880C00A85D66 /* find first and last position of elementin sorted array(34).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "find first and last position of elementin sorted array(34).swift"; sourceTree = "<group>"; };
+		04BDC60724FC880C00A85D66 /* Leetcode\find first and last position of elementin sorted array(34).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\find first and last position of elementin sorted array(34).swift"; sourceTree = "<group>"; };
 		04BDC60924FC883B00A85D66 /* Leetcode\find peak element(162).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\find peak element(162).swift"; sourceTree = "<group>"; };
 		04BDC60B24FC885F00A85D66 /* Leetcode\find the duplicate number(287).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\find the duplicate number(287).swift"; sourceTree = "<group>"; };
 		04BDC60D24FC88F300A85D66 /* Leetcode\friend circles(547).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\friend circles(547).swift"; sourceTree = "<group>"; };
@@ -85,6 +110,31 @@
 		04BDC62F24FC8C3C00A85D66 /* Leetcode\subrectangle queries(1476).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\subrectangle queries(1476).swift"; sourceTree = "<group>"; };
 		04BDC63124FC8C7700A85D66 /* Leetcode\top k frequent elements(347).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\top k frequent elements(347).swift"; sourceTree = "<group>"; };
 		04BDC63324FC8C9E00A85D66 /* Leetcode\two city scheduling(1029).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\two city scheduling(1029).swift"; sourceTree = "<group>"; };
+		04BDC63524FC91C200A85D66 /* Leetcode\defanging an ip address(1108).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\defanging an ip address(1108).swift"; sourceTree = "<group>"; };
+		04BDC63724FC91E000A85D66 /* Leetcode\jewels and stones(771).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\jewels and stones(771).swift"; sourceTree = "<group>"; };
+		04BDC63924FC920C00A85D66 /* Leetcode\subtract the product and sum of digits of and integer(1281).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\subtract the product and sum of digits of and integer(1281).swift"; sourceTree = "<group>"; };
+		04BDC63B24FC923900A85D66 /* Leetcode\split a string in balance strings(1221).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\split a string in balance strings(1221).swift"; sourceTree = "<group>"; };
+		04BDC63D24FC926000A85D66 /* Leetcode\to lower case(709).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\to lower case(709).swift"; sourceTree = "<group>"; };
+		04BDC63F24FC928000A85D66 /* Leetcode\remove outermost parentheses(1021).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\remove outermost parentheses(1021).swift"; sourceTree = "<group>"; };
+		04BDC64124FC92A800A85D66 /* Leetcode\flipping an image(832).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\flipping an image(832).swift"; sourceTree = "<group>"; };
+		04BDC64324FC92DD00A85D66 /* Leetcode\sort array by parity(905).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\sort array by parity(905).swift"; sourceTree = "<group>"; };
+		04BDC64524FC930500A85D66 /* Leetcode\self dividing numbers(728).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\self dividing numbers(728).swift"; sourceTree = "<group>"; };
+		04BDC64724FC933300A85D66 /* Leetcode\n-repeated elements in size 2n array(961).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\n-repeated elements in size 2n array(961).swift"; sourceTree = "<group>"; };
+		04BDC64924FC935000A85D66 /* Leetcode\robot return to origin(657).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\robot return to origin(657).swift"; sourceTree = "<group>"; };
+		04BDC64B24FC938600A85D66 /* Leetcode\hamming distance(461).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\hamming distance(461).swift"; sourceTree = "<group>"; };
+		04BDC64D24FC93AD00A85D66 /* Leetcode\DI string match(942).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\DI string match(942).swift"; sourceTree = "<group>"; };
+		04BDC64F24FC93DB00A85D66 /* Leetcode\squares of a sorted array(977).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\squares of a sorted array(977).swift"; sourceTree = "<group>"; };
+		04BDC65124FC940800A85D66 /* Leetcode\array partition 1(561).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\array partition 1(561).swift"; sourceTree = "<group>"; };
+		04BDC65324FC943800A85D66 /* Leetcode\peak index in a mountain array(852).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\peak index in a mountain array(852).swift"; sourceTree = "<group>"; };
+		04BDC65524FC946100A85D66 /* Leetcode\single number(136).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\single number(136).swift"; sourceTree = "<group>"; };
+		04BDC65724FC948600A85D66 /* Leetcode\majority element(169).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\majority element(169).swift"; sourceTree = "<group>"; };
+		04BDC65924FC94A700A85D66 /* Leetcode\move zeros(283).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\move zeros(283).swift"; sourceTree = "<group>"; };
+		04BDC65B24FC94D000A85D66 /* Leetcode\reverse string 2(541).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\reverse string 2(541).swift"; sourceTree = "<group>"; };
+		04BDC65D24FC94EE00A85D66 /* Leetcode\climbing stairs(70).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\climbing stairs(70).swift"; sourceTree = "<group>"; };
+		04BDC65F24FC950900A85D66 /* Leetcode\maximum subarray(53).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\maximum subarray(53).swift"; sourceTree = "<group>"; };
+		04BDC66124FC952600A85D66 /* Leetcode\two sum(1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\two sum(1).swift"; sourceTree = "<group>"; };
+		04BDC66324FC954A00A85D66 /* Leetcode\valid parentheses(20).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\valid parentheses(20).swift"; sourceTree = "<group>"; };
+		04BDC66524FC957400A85D66 /* Leetcode\sum of square numbers(633).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Leetcode\\sum of square numbers(633).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +168,7 @@
 			isa = PBXGroup;
 			children = (
 				04BDC5F024FB9CAB00A85D66 /* main.swift */,
+				04BDC65524FC946100A85D66 /* Leetcode\single number(136).swift */,
 				04BDC5F924FC869200A85D66 /* Leetcode\3Sum(15).swift */,
 				04BDC5FB24FC86F400A85D66 /* Leetcode\cheapest flight within k stops(787).swift */,
 				04BDC5FD24FC873500A85D66 /* Leetcode\combination sum(39).swift */,
@@ -125,7 +176,7 @@
 				04BDC60124FC878500A85D66 /* Leetcode\count number of teams(1395).swift */,
 				04BDC60324FC87A500A85D66 /* Leetcode\counting bits(338).swift */,
 				04BDC60524FC87CB00A85D66 /* Leetcode\find all duplicates in an array(442).swift */,
-				04BDC60724FC880C00A85D66 /* find first and last position of elementin sorted array(34).swift */,
+				04BDC60724FC880C00A85D66 /* Leetcode\find first and last position of elementin sorted array(34).swift */,
 				04BDC60924FC883B00A85D66 /* Leetcode\find peak element(162).swift */,
 				04BDC60B24FC885F00A85D66 /* Leetcode\find the duplicate number(287).swift */,
 				04BDC60D24FC88F300A85D66 /* Leetcode\friend circles(547).swift */,
@@ -148,6 +199,30 @@
 				04BDC62F24FC8C3C00A85D66 /* Leetcode\subrectangle queries(1476).swift */,
 				04BDC63124FC8C7700A85D66 /* Leetcode\top k frequent elements(347).swift */,
 				04BDC63324FC8C9E00A85D66 /* Leetcode\two city scheduling(1029).swift */,
+				04BDC63524FC91C200A85D66 /* Leetcode\defanging an ip address(1108).swift */,
+				04BDC63724FC91E000A85D66 /* Leetcode\jewels and stones(771).swift */,
+				04BDC63924FC920C00A85D66 /* Leetcode\subtract the product and sum of digits of and integer(1281).swift */,
+				04BDC63B24FC923900A85D66 /* Leetcode\split a string in balance strings(1221).swift */,
+				04BDC63D24FC926000A85D66 /* Leetcode\to lower case(709).swift */,
+				04BDC63F24FC928000A85D66 /* Leetcode\remove outermost parentheses(1021).swift */,
+				04BDC64124FC92A800A85D66 /* Leetcode\flipping an image(832).swift */,
+				04BDC64324FC92DD00A85D66 /* Leetcode\sort array by parity(905).swift */,
+				04BDC64524FC930500A85D66 /* Leetcode\self dividing numbers(728).swift */,
+				04BDC64724FC933300A85D66 /* Leetcode\n-repeated elements in size 2n array(961).swift */,
+				04BDC64924FC935000A85D66 /* Leetcode\robot return to origin(657).swift */,
+				04BDC64B24FC938600A85D66 /* Leetcode\hamming distance(461).swift */,
+				04BDC64D24FC93AD00A85D66 /* Leetcode\DI string match(942).swift */,
+				04BDC64F24FC93DB00A85D66 /* Leetcode\squares of a sorted array(977).swift */,
+				04BDC65124FC940800A85D66 /* Leetcode\array partition 1(561).swift */,
+				04BDC65324FC943800A85D66 /* Leetcode\peak index in a mountain array(852).swift */,
+				04BDC65724FC948600A85D66 /* Leetcode\majority element(169).swift */,
+				04BDC65924FC94A700A85D66 /* Leetcode\move zeros(283).swift */,
+				04BDC65B24FC94D000A85D66 /* Leetcode\reverse string 2(541).swift */,
+				04BDC65D24FC94EE00A85D66 /* Leetcode\climbing stairs(70).swift */,
+				04BDC65F24FC950900A85D66 /* Leetcode\maximum subarray(53).swift */,
+				04BDC66124FC952600A85D66 /* Leetcode\two sum(1).swift */,
+				04BDC66324FC954A00A85D66 /* Leetcode\valid parentheses(20).swift */,
+				04BDC66524FC957400A85D66 /* Leetcode\sum of square numbers(633).swift */,
 			);
 			path = leetcode;
 			sourceTree = "<group>";
@@ -214,33 +289,58 @@
 				04BDC63224FC8C7700A85D66 /* Leetcode\top k frequent elements(347).swift in Sources */,
 				04BDC63424FC8C9E00A85D66 /* Leetcode\two city scheduling(1029).swift in Sources */,
 				04BDC63024FC8C3C00A85D66 /* Leetcode\subrectangle queries(1476).swift in Sources */,
+				04BDC66224FC952600A85D66 /* Leetcode\two sum(1).swift in Sources */,
+				04BDC63824FC91E000A85D66 /* Leetcode\jewels and stones(771).swift in Sources */,
 				04BDC60224FC878500A85D66 /* Leetcode\count number of teams(1395).swift in Sources */,
+				04BDC63E24FC926000A85D66 /* Leetcode\to lower case(709).swift in Sources */,
 				04BDC61C24FC8A6F00A85D66 /* Leetcode\maximum number of coins you can get(1561).swift in Sources */,
+				04BDC66624FC957400A85D66 /* Leetcode\sum of square numbers(633).swift in Sources */,
 				04BDC62024FC8AD000A85D66 /* Leetcode\minimum number of steps to make two strings anagram(1347).swift in Sources */,
 				04BDC60024FC875E00A85D66 /* leetcode\container with most water(11).swift in Sources */,
 				04BDC61E24FC8AA000A85D66 /* Leetcode\minimum add to  make parentheses valid(921).swift in Sources */,
+				04BDC64624FC930500A85D66 /* Leetcode\self dividing numbers(728).swift in Sources */,
+				04BDC65A24FC94A700A85D66 /* Leetcode\move zeros(283).swift in Sources */,
+				04BDC64E24FC93AD00A85D66 /* Leetcode\DI string match(942).swift in Sources */,
 				04BDC61624FC89C200A85D66 /* Leetcode\kth largest element in an array(215).swift in Sources */,
 				04BDC62824FC8B9700A85D66 /* Leetcode\queries on a permutationwith key(1409).swift in Sources */,
+				04BDC64424FC92DD00A85D66 /* Leetcode\sort array by parity(905).swift in Sources */,
+				04BDC65224FC940800A85D66 /* Leetcode\array partition 1(561).swift in Sources */,
+				04BDC66024FC950900A85D66 /* Leetcode\maximum subarray(53).swift in Sources */,
 				04BDC61A24FC8A3F00A85D66 /* Leetcode\max increase to keep city skyline(807).swift in Sources */,
+				04BDC64224FC92A800A85D66 /* Leetcode\flipping an image(832).swift in Sources */,
+				04BDC65024FC93DB00A85D66 /* Leetcode\squares of a sorted array(977).swift in Sources */,
 				04BDC62624FC8B5500A85D66 /* Leetcode\productof array excepet self(238).swift in Sources */,
 				04BDC62424FC8B1E00A85D66 /* Leetcode\network delay time(743).swift in Sources */,
-				04BDC60824FC880C00A85D66 /* find first and last position of elementin sorted array(34).swift in Sources */,
+				04BDC60824FC880C00A85D66 /* Leetcode\find first and last position of elementin sorted array(34).swift in Sources */,
+				04BDC65C24FC94D000A85D66 /* Leetcode\reverse string 2(541).swift in Sources */,
+				04BDC64824FC933300A85D66 /* Leetcode\n-repeated elements in size 2n array(961).swift in Sources */,
 				04BDC60A24FC883B00A85D66 /* Leetcode\find peak element(162).swift in Sources */,
+				04BDC65624FC946100A85D66 /* Leetcode\single number(136).swift in Sources */,
 				04BDC61824FC8A0300A85D66 /* Leetcode\longest increasing subsequence(300).swift in Sources */,
+				04BDC63A24FC920C00A85D66 /* Leetcode\subtract the product and sum of digits of and integer(1281).swift in Sources */,
 				04BDC5FA24FC869200A85D66 /* Leetcode\3Sum(15).swift in Sources */,
 				04BDC60624FC87CB00A85D66 /* Leetcode\find all duplicates in an array(442).swift in Sources */,
 				04BDC5FC24FC86F400A85D66 /* Leetcode\cheapest flight within k stops(787).swift in Sources */,
+				04BDC63624FC91C200A85D66 /* Leetcode\defanging an ip address(1108).swift in Sources */,
+				04BDC64A24FC935000A85D66 /* Leetcode\robot return to origin(657).swift in Sources */,
 				04BDC5F124FB9CAB00A85D66 /* main.swift in Sources */,
+				04BDC66424FC954A00A85D66 /* Leetcode\valid parentheses(20).swift in Sources */,
 				04BDC60E24FC88F300A85D66 /* Leetcode\friend circles(547).swift in Sources */,
 				04BDC61024FC893900A85D66 /* Leetcode\gas station(134).swift in Sources */,
 				04BDC62224FC8AFC00A85D66 /* Leetcode\minimum operations to make array equal(1551).swift in Sources */,
 				04BDC62E24FC8C1500A85D66 /* Leetcode\subarray sum equals k(560).swift in Sources */,
 				04BDC60424FC87A500A85D66 /* Leetcode\counting bits(338).swift in Sources */,
 				04BDC60C24FC885F00A85D66 /* Leetcode\find the duplicate number(287).swift in Sources */,
+				04BDC64024FC928000A85D66 /* Leetcode\remove outermost parentheses(1021).swift in Sources */,
 				04BDC62C24FC8BF200A85D66 /* Leetcode\reveal cardsin in creasing order(950).swift in Sources */,
 				04BDC61224FC896E00A85D66 /* Leetcode\group anagrams(49).swift in Sources */,
+				04BDC65E24FC94EE00A85D66 /* Leetcode\climbing stairs(70).swift in Sources */,
+				04BDC65824FC948600A85D66 /* Leetcode\majority element(169).swift in Sources */,
 				04BDC61424FC899A00A85D66 /* Leetcode\group the people given the group size they belong to(1282).swift in Sources */,
+				04BDC65424FC943800A85D66 /* Leetcode\peak index in a mountain array(852).swift in Sources */,
 				04BDC5FE24FC873500A85D66 /* Leetcode\combination sum(39).swift in Sources */,
+				04BDC63C24FC923900A85D66 /* Leetcode\split a string in balance strings(1221).swift in Sources */,
+				04BDC64C24FC938600A85D66 /* Leetcode\hamming distance(461).swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
