@@ -30,4 +30,30 @@ Leetcode\top k frequent elements(347).swift
 Leetcode\two city scheduling(1029).swift
 Leetcode\find first and last position of elementin sorted array(34).swift
 leetcode\container with most water(11).swift
+Leetcode\DI string match(942).swift
+Leetcode\array partition 1(561).swift
+Leetcode\climbing stairs(70).swift
+Leetcode\defanging an ip address(1108).swift
+Leetcode\find first and last position of elementin sorted array(34).swift
+Leetcode\flipping an image(832).swift
+Leetcode\hamming distance(461).swift
+Leetcode\jewels and stones(771).swift
+Leetcode\majority element(169).swift
+Leetcode\maximum subarray(53).swift
+Leetcode\move zeros(283).swift
+Leetcode\n-repeated elements in size 2n array(961).swift
+Leetcode\peak index in a mountain array(852).swift
+Leetcode\remove outermost parentheses(1021).swift
+Leetcode\reverse string 2(541).swift
+Leetcode\robot return to origin(657).swift
+Leetcode\self dividing numbers(728).swift
+Leetcode\single number(136).swift
+Leetcode\sort array by parity(905).swift
+Leetcode\split a string in balance strings(1221).swift
+Leetcode\squares of a sorted array(977).swift
+Leetcode\subtract the product and sum of digits of and integer(1281).swift
+Leetcode\sum of square numbers(633).swift
+Leetcode\to lower case(709).swift
+Leetcode\two sum(1).swift
+Leetcode\valid parentheses(20).swift
 
